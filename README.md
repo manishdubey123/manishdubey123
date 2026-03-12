@@ -1,5 +1,3 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdubey123&layout=compact)
-
 # Hi 👋, I'm Manish
 
 ### 👨‍💻 Backend / Full Stack Developer
