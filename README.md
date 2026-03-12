@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdubey&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdubey123&layout=compact)
 
 # Hi 👋, I'm Manish
 
